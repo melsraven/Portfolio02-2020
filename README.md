@@ -1,0 +1,2 @@
+# Portfolio02-2020
+LB02 Portfolio Informatik 2020
